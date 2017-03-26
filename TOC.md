@@ -1,4 +1,7 @@
-- 关于我们
-    - [关于极客学院](about-us.md)
-    - [关于极客学院 Wiki](about-wiki.md)
-- [联系我们](contact.md)
+- 初入设计模式之门
+    - [王小二需求历险记(一)](need_risk_01.md)
+    - [王小二需求历险记(二)](need_risk_02.md)
+    - [面向对象的三大特征](OOP_3_feature.md)
+    - [初探设计模式之王小二的疑问](enter_design.md)
+- [关于教程](contact.md)
+
